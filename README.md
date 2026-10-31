@@ -21,11 +21,11 @@ The ADC and PWM names are **schematic labels**, not a documented external connec
 
 ### Schematic
 
-![Schematic overview](images/Smartbattrycharger.svg)
+![Schematic overview](images/schematic.png)
 
 ### PCB front
 
-![PCB front view](images/pcb-front.svg)
+![PCB front view](images/pcb-front.png)
 
 ## Open the project
 
@@ -38,7 +38,7 @@ The ADC and PWM names are **schematic labels**, not a documented external connec
 - `Smartbattrycharger.kicad_pro` — KiCad project settings
 - `Smartbattrycharger.kicad_sch` — editable schematic
 - `Smartbattrycharger.kicad_pcb` — editable PCB layout
-- `images/` — exported SVG previews for GitHub
+- `images/` — exported PNG previews and SVG source renders
 
 ## Design checks
 
