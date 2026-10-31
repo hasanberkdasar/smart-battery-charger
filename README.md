@@ -51,4 +51,4 @@ These automated checks do not establish electrical safety or suitability for a p
 
 ## License
 
-No license has been selected yet. Please contact the repository owner before reusing the design beyond what GitHub's default terms allow.
+This project is licensed under the [MIT License](LICENSE). Copyright (c) 2026 Hasan Berk Daşar.
